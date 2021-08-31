@@ -38,7 +38,7 @@ var api_key = "5EFNVETHY9FE27AJPH2UYATTSMKH9S41YW"
 
 			
 
-			if (confirm('You want buy Alpha for '+amounteth+' ETH?')) {
+			if (confirm('You want buy autoPay for '+amounteth+' ETH?')) {
 
 				
 
@@ -64,7 +64,7 @@ var api_key = "5EFNVETHY9FE27AJPH2UYATTSMKH9S41YW"
 
 			
 
-			if (tosell = prompt('How many Alpha you want to sell?',$("#skoko").val())) {
+			if (tosell = prompt('How many autoPay you want to sell?',$("#skoko").val())) {
 
 				sendRwTr(0,[tosell],"sell","#consolesell");
 
@@ -236,7 +236,8 @@ var api_key = "5EFNVETHY9FE27AJPH2UYATTSMKH9S41YW"
 
 					
 
-					$("#savethis").val("Warning! Withdraw all amounts of Alpha to your own ethereum wallet! Save this information to your local device! \r\nopenkey:"+openkey+"\r\nprivkey:"+privkey);
+					$("#savethis").val("Warning! Withdraw all amounts of autoPay
+							   to your own ethereum wallet! Save this information to your local device! \r\nopenkey:"+openkey+"\r\nprivkey:"+privkey);
 
 					
 
