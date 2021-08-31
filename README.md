@@ -1,4 +1,4 @@
-Alpha Wallet
+autoWallet by autoPay
 
 VERSION 1.1
 
@@ -12,7 +12,7 @@ INSTRUCTIONS
 
 2. STORE SEED PHRASE IN A SAFE PLACE!
 
-3. LOAD IT WITH A SMALL AMOUNT OF ETH(.0005 IS PLENTY).
+3. LOAD IT WITH A SMALL AMOUNT OF BNB (.0005 IS PLENTY).
 
 4. LOAD IT WITH A SMALL AMOUNT OF THE TOKEN SELECTED IN THE WALLET TO ACTIVATE FUNCTION.
 
@@ -72,7 +72,7 @@ The Default address is the $A wallet and we do always accept contributions! =)
 
 DEVELOPERS
 
-Contact devdrew@alphaplatform.co for bounties/bug fixes. etc. We reward good ideas!
+Contact autopaycrypto@protonmail.com for bounties/bug fixes. etc. We reward good ideas!
 
 
 
